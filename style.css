@@ -1,0 +1,33 @@
+img{
+    width:400px;
+    height: 400px;;
+}
+label
+{
+    width:25%;
+    text-align: end;
+}
+
+#seats
+{
+    width:75px;
+}
+.mx
+{
+    margin-right:0% !important;
+    margin-left:20%;
+    margin-bottom:5%;
+}
+input{
+    width: 50%;
+}
+img{
+    border-radius: 50%;
+    width:80%;
+    height: 80%;
+    
+}
+.containerborder
+{
+    border: 1px solid black;
+}
